@@ -12,3 +12,4 @@ const calculateGrade = (scores)=>{
 
 console.log(calculateGrade(80));
 console.log(calculateGrade(60));
+Q3
